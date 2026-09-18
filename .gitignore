@@ -1,0 +1,5 @@
+﻿# client data never goes to GitHub
+*.pdf
+*.xlsx
+__pycache__/
+.venv/
